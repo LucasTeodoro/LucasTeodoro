@@ -6,7 +6,9 @@
 
 Sou co-fundador da empresa Devyx que atual no mercado de desenvolvimento de Saas.
 
-- 💼 &nbsp; Trabalhando CEO na [!Devyx](https://devyx.com.br)
+- 💼 &nbsp; Trabalhando CTO na [Devyx](https://devyx.com.br)
+- 💼 &nbsp; Trabalhando como DevOps na [Elevata](https://elevata.io)
+- 👨🏻‍💻 &nbsp; Membro do Tech Changers da [IFTL](https://www.iftl.ai/)
 
 <br/>
 
